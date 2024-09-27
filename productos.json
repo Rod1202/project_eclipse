@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Producto A",
+        "precio": 50.0,
+        "stock": 100
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Producto B",
+        "precio": 25.0,
+        "stock": 200
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Producto C",
+        "precio": 35.0,
+        "stock": 150
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Producto D",
+        "precio": 60.0,
+        "stock": 300
+    }
+]

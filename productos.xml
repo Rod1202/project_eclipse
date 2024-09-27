@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventarios>
+    <inventario>
+        <codigo>INV001</codigo>
+        <fecha>2024-09-26</fecha>
+        <productos>
+            <producto>
+                <codigo>P001</codigo>
+                <nombre>Producto A</nombre>
+                <precio>50.0</precio>
+                <stock>100</stock>
+            </producto>
+            <producto>
+                <codigo>P002</codigo>
+                <nombre>Producto B</nombre>
+                <precio>25.0</precio>
+                <stock>200</stock>
+            </producto>
+        </productos>
+    </inventario>
+    <inventario>
+        <codigo>INV002</codigo>
+        <fecha>2024-09-27</fecha>
+        <productos>
+            <producto>
+                <codigo>P003</codigo>
+                <nombre>Producto C</nombre>
+                <precio>35.0</precio>
+                <stock>150</stock>
+            </producto>
+            <producto>
+                <codigo>P004</codigo>
+                <nombre>Producto D</nombre>
+                <precio>60.0</precio>
+                <stock>300</stock>
+            </producto>
+        </productos>
+    </inventario>
+</inventarios>
